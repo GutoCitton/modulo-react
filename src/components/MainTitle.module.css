@@ -1,0 +1,10 @@
+.MainTitleTitle h1 {
+  margin: 30px 0;
+  
+}
+
+.MainTitleCogu {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0;
+}
